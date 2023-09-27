@@ -1,0 +1,15 @@
+D:\Reposit\HW1Block\bin\Debug\net7.0\HW1Block.exe
+D:\Reposit\HW1Block\bin\Debug\net7.0\HW1Block.deps.json
+D:\Reposit\HW1Block\bin\Debug\net7.0\HW1Block.runtimeconfig.json
+D:\Reposit\HW1Block\bin\Debug\net7.0\HW1Block.dll
+D:\Reposit\HW1Block\bin\Debug\net7.0\HW1Block.pdb
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.csproj.AssemblyReference.cache
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.AssemblyInfoInputs.cache
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.AssemblyInfo.cs
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.csproj.CoreCompileInputs.cache
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.dll
+D:\Reposit\HW1Block\obj\Debug\net7.0\refint\HW1Block.dll
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.pdb
+D:\Reposit\HW1Block\obj\Debug\net7.0\HW1Block.genruntimeconfig.cache
+D:\Reposit\HW1Block\obj\Debug\net7.0\ref\HW1Block.dll
